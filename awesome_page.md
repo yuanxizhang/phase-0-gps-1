@@ -1,6 +1,16 @@
-# Awesome GIT Commands 
+# Awesome git learning tools
 
-## Create
+	learning git is very important for a web developer, so here are the tools and git commands that are very helpful.
+
+* [Try git](https://httpbin.org/post)
+* [Learn git at codecademy.com](https://www.codecademy.com/learn/learn-git)
+
+**Awesome screenshot**:
+![Awesome screen shot](./Awesome_Screen_Shot.png)
+
+# *Awesome git ommands*
+
+## Create a new repo
 * git init
 * git clone URL
 
@@ -19,8 +29,8 @@
 * git log
 
 ## Updates
-* git pull <remote> <branch>
-* git push <remote> <branch>
+* git pull origin master
+* git push origin master
 
 ## merge
 * git merge <branch>
